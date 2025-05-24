@@ -1,7 +1,7 @@
 # Grocery Store
 
 A simple and responsive grocery store website built using HTML, CSS, and JavaScript.
-
+ 
 ## Table of Contents
 
 - [Features](#features)
